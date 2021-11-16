@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "@architect/functions": "^3.7.6",
-    "aws-sdk": "^2.622.0"
+    "aws-sdk": "^2.814.0"
   }
 }
